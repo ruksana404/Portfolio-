@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+#home {
+    background: lightblue;
+}
+
+#about {
+    background: lightgray;
+}
+
+#skills {
+    background: lightgreen;
+}
+
+#contact {
+    background: lightpink;
+}
+
+ul {
+    list-style: none;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
